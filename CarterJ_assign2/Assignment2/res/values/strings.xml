@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CIS 4930 - ASSIGNMENT 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Gator_button">Show me a Nole!</string>
+    <string name="Nole_button">Show me a Gator!</string>
+    <string name="title_activity_nole_">CIS 4930 - ASSIGNMENT 2</string>
+
+</resources>
